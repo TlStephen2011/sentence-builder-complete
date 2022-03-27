@@ -1,6 +1,6 @@
 [submodule "frontend"]
 	path = frontend
-	url = .\\frontend\\
+	url = https://github.com/TlStephen2011/sentence-builder-frontend.git
 [submodule "server"]
 	path = server
-	url = .\\server\\
+	url = https://github.com/TlStephen2011/sentence-builder-server.git
